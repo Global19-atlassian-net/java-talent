@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.7](https://www.github.com/googleapis/java-talent/compare/v1.0.6...v1.0.7) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#409](https://www.github.com/googleapis/java-talent/issues/409)) ([09e4423](https://www.github.com/googleapis/java-talent/commit/09e44234121af299286afa597632c772fd66f8d0))
+
 ### [1.0.6](https://www.github.com/googleapis/java-talent/compare/v1.0.5...v1.0.6) (2021-01-14)
 
 
